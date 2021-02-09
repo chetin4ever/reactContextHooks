@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.App{
+.App {
   max-width: 400px;
   margin: 30px auto;
   text-align: center;
@@ -15,15 +15,14 @@ body {
 nav{
   padding: 5px;
 }
-nav ul{
-  padding: 0px;
+nav ul {
+  padding: 0;
 }
-
-nav ul li{
+nav ul li {
   display: inline-block;
   margin: 0 10px;
 }
-.book-list{
+.book-list {
   padding: 20px;
   margin-bottom: 20px;
 }
@@ -31,7 +30,7 @@ nav ul li{
   padding: 0;
   list-style-type: none;
 }
-.book-list ul li{
+.book-list li {
   padding: 10px;
   margin: 10px auto;
   border-radius: 10px;
